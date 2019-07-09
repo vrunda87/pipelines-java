@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vrundakhanolkar/Java%20Project/_apis/build/status/vrunda87.pipelines-java?branchName=master)](https://dev.azure.com/vrundakhanolkar/Java%20Project/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
